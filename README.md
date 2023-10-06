@@ -62,7 +62,16 @@
         height="48"
         alt="mysql"
       />
-      <br /><strong>mysql</strong>
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="ReactJS"
+      />
+      <br /><strong>ReactJS</strong>
     </td>
     </tr>
 </table>
