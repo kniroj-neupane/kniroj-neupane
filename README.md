@@ -64,7 +64,6 @@
       />
       <br /><strong>MySQL</strong>
     </td>
-
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
